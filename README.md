@@ -33,7 +33,7 @@ print(b)
 
 ```
 ## Sample Input and Output:
-![norm1]()
+![norm1](https://github.com/ragulmani936/Norm-Matrix/blob/main/Screenshot%20(51).png?raw=true)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
