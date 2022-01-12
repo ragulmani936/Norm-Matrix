@@ -32,7 +32,7 @@ print(b)
 
 
 ```
-## Sample Input and Output:
+## Output:
 ![norm1](https://github.com/ragulmani936/Norm-Matrix/blob/main/Screenshot%20(51).png?raw=true)
 
 ## Result
